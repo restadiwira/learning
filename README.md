@@ -1,2 +1,2 @@
 # learning
-All Project from learnin
+All Project from learning
